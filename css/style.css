@@ -1,5 +1,5 @@
 body {
-  background-color: gray;
+  background-color: rgb(7, 7, 7);
   font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
 }
 .content {
@@ -14,6 +14,6 @@ body {
 .text {
   text-align: center;
   font-size: 16px;
-  color: #000;
+  color: rgb(163, 159, 159);
   padding: 10px 0 0 0;
 }
